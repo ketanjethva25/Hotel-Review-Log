@@ -68,7 +68,7 @@ hotel-review-log/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hotel-review-log.git
+   git clone https://github.com/ketanjethva25/hotel-review-log.git
    cd hotel-review-log
    ```
 
